@@ -1,0 +1,27 @@
+[2016-07-11 14:54:34] Start checkOrder
+[2016-07-11 14:54:34] Security type PKCS7
+[2016-07-11 14:54:34] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2016-07-11T14:54:34.000+03:00" code="200"  invoiceId="" shopId="151"/>
+[2016-07-11 14:55:23] Start checkOrder
+[2016-07-11 14:55:23] Security type PKCS7
+[2016-07-11 14:55:23] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2016-07-11T14:55:23.000+03:00" code="200"  invoiceId="" shopId="151"/>
+[2016-07-11 15:27:46] Start checkOrder
+[2016-07-11 15:27:46] Security type PKCS7
+[2016-07-11 15:27:46] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2016-07-11T15:27:46.000+03:00" code="200"  invoiceId="" shopId="151"/>
+[2016-07-11 15:28:12] Start checkOrder
+[2016-07-11 15:28:12] Security type PKCS7
+[2016-07-11 15:28:12] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2016-07-11T15:28:12.000+03:00" code="200"  invoiceId="" shopId="62636"/>
+[2016-07-11 15:30:21] Start checkOrder
+[2016-07-11 15:30:21] Security type PKCS7
+[2016-07-11 15:30:21] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2016-07-11T15:30:21.000+03:00" code="200"  invoiceId="" shopId="62636"/>
+[2016-07-11 15:35:13] Start checkOrder
+[2016-07-11 15:35:13] Security type PKCS7
+[2016-07-11 15:35:13] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2016-07-11T15:35:13.000+03:00" code="200"  invoiceId="" shopId="62636"/>
+[2016-07-11 15:35:18] Start checkOrder
+[2016-07-11 15:35:18] Security type PKCS7
+[2016-07-11 15:35:18] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2016-07-11T15:35:18.000+03:00" code="200"  invoiceId="" shopId="62636"/>
+[2017-04-18 14:02:09] Start checkOrder
+[2017-04-18 14:02:09] Security type PKCS7
+[2017-04-18 14:02:09] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2017-04-18T14:02:09.000+03:00" code="200"  invoiceId="" shopId="62636"/>
+[2018-09-18 13:48:40] Start checkOrder
+[2018-09-18 13:48:40] Security type PKCS7
+[2018-09-18 13:48:40] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T13:48:40.000+03:00" code="200"  invoiceId="" shopId="130136"/>

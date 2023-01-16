@@ -1,0 +1,592 @@
+[2016-07-11 14:54:34] Start checkOrder
+[2016-07-11 14:54:34] Security type PKCS7
+[2016-07-11 14:54:34] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2016-07-11T14:54:34.000+03:00" code="200"  invoiceId="" shopId="151"/>
+[2016-07-11 14:55:23] Start checkOrder
+[2016-07-11 14:55:23] Security type PKCS7
+[2016-07-11 14:55:23] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2016-07-11T14:55:23.000+03:00" code="200"  invoiceId="" shopId="151"/>
+[2016-07-11 15:27:46] Start checkOrder
+[2016-07-11 15:27:46] Security type PKCS7
+[2016-07-11 15:27:46] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2016-07-11T15:27:46.000+03:00" code="200"  invoiceId="" shopId="151"/>
+[2016-07-11 15:28:12] Start checkOrder
+[2016-07-11 15:28:12] Security type PKCS7
+[2016-07-11 15:28:12] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2016-07-11T15:28:12.000+03:00" code="200"  invoiceId="" shopId="62636"/>
+[2016-07-11 15:30:21] Start checkOrder
+[2016-07-11 15:30:21] Security type PKCS7
+[2016-07-11 15:30:21] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2016-07-11T15:30:21.000+03:00" code="200"  invoiceId="" shopId="62636"/>
+[2016-07-11 15:35:13] Start checkOrder
+[2016-07-11 15:35:13] Security type PKCS7
+[2016-07-11 15:35:13] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2016-07-11T15:35:13.000+03:00" code="200"  invoiceId="" shopId="62636"/>
+[2016-07-11 15:35:18] Start checkOrder
+[2016-07-11 15:35:18] Security type PKCS7
+[2016-07-11 15:35:18] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2016-07-11T15:35:18.000+03:00" code="200"  invoiceId="" shopId="62636"/>
+[2017-04-18 14:02:09] Start checkOrder
+[2017-04-18 14:02:09] Security type PKCS7
+[2017-04-18 14:02:09] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2017-04-18T14:02:09.000+03:00" code="200"  invoiceId="" shopId="62636"/>
+[2018-08-31 11:41:49] Start checkOrder
+[2018-08-31 11:41:49] Security type PKCS7
+[2018-08-31 11:41:49] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-08-31T11:41:49.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-08-31 13:16:54] Start checkOrder
+[2018-08-31 13:16:54] Security type PKCS7
+[2018-08-31 13:16:54] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-08-31T13:16:54.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-08-31 15:40:55] Start checkOrder
+[2018-08-31 15:40:55] Security type PKCS7
+[2018-08-31 15:40:55] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-08-31T15:40:55.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-08-31 16:22:29] Start checkOrder
+[2018-08-31 16:22:29] Security type PKCS7
+[2018-08-31 16:22:29] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-08-31T16:22:29.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-08-31 18:57:42] Start checkOrder
+[2018-08-31 18:57:42] Security type PKCS7
+[2018-08-31 18:57:42] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-08-31T18:57:42.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-08 11:22:47] Start checkOrder
+[2018-09-08 11:22:47] Security type PKCS7
+[2018-09-08 11:22:47] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-08T11:22:47.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-17 14:56:10] Start checkOrder
+[2018-09-17 14:56:10] Security type PKCS7
+[2018-09-17 14:56:10] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-17T14:56:10.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-17 14:56:12] Start checkOrder
+[2018-09-17 14:56:12] Security type PKCS7
+[2018-09-17 14:56:12] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-17T14:56:12.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-17 15:04:27] Start checkOrder
+[2018-09-17 15:04:27] Security type PKCS7
+[2018-09-17 15:04:27] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-17T15:04:27.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-17 16:20:37] Start checkOrder
+[2018-09-17 16:20:37] Security type PKCS7
+[2018-09-17 16:20:37] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-17T16:20:37.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-17 16:21:08] Start checkOrder
+[2018-09-17 16:21:08] Security type PKCS7
+[2018-09-17 16:21:08] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-17T16:21:08.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-17 16:25:52] Start checkOrder
+[2018-09-17 16:25:52] Security type PKCS7
+[2018-09-17 16:25:52] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-17T16:25:52.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:42:47] Start checkOrder
+[2018-09-18 08:42:47] Security type PKCS7
+[2018-09-18 08:42:47] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:42:47.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:52:07] Start checkOrder
+[2018-09-18 08:52:07] Security type PKCS7
+[2018-09-18 08:52:07] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:52:07.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:52:24] Start checkOrder
+[2018-09-18 08:52:24] Security type PKCS7
+[2018-09-18 08:52:24] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:52:24.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:53:34] Start checkOrder
+[2018-09-18 08:53:34] Security type PKCS7
+[2018-09-18 08:53:34] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:53:34.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:53:47] Start checkOrder
+[2018-09-18 08:53:47] Security type PKCS7
+[2018-09-18 08:53:47] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:53:47.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:55:27] Start checkOrder
+[2018-09-18 08:55:27] Security type PKCS7
+[2018-09-18 08:55:27] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:55:27.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:55:38] Start checkOrder
+[2018-09-18 08:55:38] Security type PKCS7
+[2018-09-18 08:55:38] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:55:38.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:56:29] Start checkOrder
+[2018-09-18 08:56:29] Security type PKCS7
+[2018-09-18 08:56:29] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:56:29.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:57:29] Start checkOrder
+[2018-09-18 08:57:29] Security type PKCS7
+[2018-09-18 08:57:29] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:57:29.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:57:30] Start checkOrder
+[2018-09-18 08:57:30] Security type PKCS7
+[2018-09-18 08:57:30] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:57:30.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:58:54] Start checkOrder
+[2018-09-18 08:58:54] Security type PKCS7
+[2018-09-18 08:58:54] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:58:54.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:58:56] Start checkOrder
+[2018-09-18 08:58:56] Security type PKCS7
+[2018-09-18 08:58:56] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:58:56.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:59:03] Start checkOrder
+[2018-09-18 08:59:03] Security type PKCS7
+[2018-09-18 08:59:03] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:59:03.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:59:05] Start checkOrder
+[2018-09-18 08:59:05] Security type PKCS7
+[2018-09-18 08:59:05] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:59:05.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 08:59:15] Start checkOrder
+[2018-09-18 08:59:15] Security type PKCS7
+[2018-09-18 08:59:15] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T08:59:15.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 09:00:12] Start checkOrder
+[2018-09-18 09:00:12] Security type PKCS7
+[2018-09-18 09:00:12] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T09:00:12.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 09:00:57] Start checkOrder
+[2018-09-18 09:00:57] Security type PKCS7
+[2018-09-18 09:00:57] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T09:00:57.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 09:01:24] Start checkOrder
+[2018-09-18 09:01:24] Security type PKCS7
+[2018-09-18 09:01:24] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T09:01:24.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 09:28:53] Start checkOrder
+[2018-09-18 09:28:53] Security type PKCS7
+[2018-09-18 09:28:53] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T09:28:53.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 09:29:34] Start checkOrder
+[2018-09-18 09:29:34] Security type PKCS7
+[2018-09-18 09:29:34] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T09:29:34.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 09:30:29] Start checkOrder
+[2018-09-18 09:30:29] Security type PKCS7
+[2018-09-18 09:30:29] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T09:30:29.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 10:43:39] Start checkOrder
+[2018-09-18 10:43:39] Security type PKCS7
+[2018-09-18 10:43:39] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T10:43:39.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 11:57:47] Start checkOrder
+[2018-09-18 11:57:47] Security type PKCS7
+[2018-09-18 11:57:47] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T11:57:47.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-18 12:10:11] Start checkOrder
+[2018-09-18 12:10:11] Security type PKCS7
+[2018-09-18 12:10:11] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-18T12:10:11.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-09-20 06:47:24] Start checkOrder
+[2018-09-20 06:47:24] Security type PKCS7
+[2018-09-20 06:47:24] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-09-20T06:47:24.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 12:38:04] Start checkOrder
+[2018-10-31 12:38:04] Security type PKCS7
+[2018-10-31 12:38:04] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T12:38:04.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 12:39:09] Start checkOrder
+[2018-10-31 12:39:09] Security type PKCS7
+[2018-10-31 12:39:09] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T12:39:09.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 12:56:58] Start checkOrder
+[2018-10-31 12:56:58] Security type PKCS7
+[2018-10-31 12:56:58] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T12:56:58.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:09:40] Start checkOrder
+[2018-10-31 14:09:40] Security type PKCS7
+[2018-10-31 14:09:40] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:09:40.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:10:31] Start checkOrder
+[2018-10-31 14:10:31] Security type PKCS7
+[2018-10-31 14:10:31] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:10:31.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:10:33] Start checkOrder
+[2018-10-31 14:10:33] Security type PKCS7
+[2018-10-31 14:10:33] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:10:33.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:11:40] Start checkOrder
+[2018-10-31 14:11:40] Security type PKCS7
+[2018-10-31 14:11:40] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:11:40.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:12:03] Start checkOrder
+[2018-10-31 14:12:03] Security type PKCS7
+[2018-10-31 14:12:03] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:12:03.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:12:22] Start checkOrder
+[2018-10-31 14:12:22] Security type PKCS7
+[2018-10-31 14:12:22] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:12:22.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:12:49] Start checkOrder
+[2018-10-31 14:12:49] Security type PKCS7
+[2018-10-31 14:12:49] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:12:49.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:12:50] Start checkOrder
+[2018-10-31 14:12:50] Security type PKCS7
+[2018-10-31 14:12:50] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:12:50.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:12:51] Start checkOrder
+[2018-10-31 14:12:51] Security type PKCS7
+[2018-10-31 14:12:51] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:12:51.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:13:05] Start checkOrder
+[2018-10-31 14:13:05] Security type PKCS7
+[2018-10-31 14:13:05] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:13:05.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:13:24] Start checkOrder
+[2018-10-31 14:13:24] Security type PKCS7
+[2018-10-31 14:13:24] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:13:24.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:13:38] Start checkOrder
+[2018-10-31 14:13:38] Security type PKCS7
+[2018-10-31 14:13:38] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:13:38.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:13:39] Start checkOrder
+[2018-10-31 14:13:39] Security type PKCS7
+[2018-10-31 14:13:39] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:13:39.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:13:45] Start checkOrder
+[2018-10-31 14:13:45] Security type PKCS7
+[2018-10-31 14:13:45] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:13:45.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:14:00] Start checkOrder
+[2018-10-31 14:14:00] Security type PKCS7
+[2018-10-31 14:14:01] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:14:01.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:14:01] Start checkOrder
+[2018-10-31 14:14:01] Security type PKCS7
+[2018-10-31 14:14:01] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:14:01.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:14:02] Start checkOrder
+[2018-10-31 14:14:02] Security type PKCS7
+[2018-10-31 14:14:02] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:14:02.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:14:15] Start checkOrder
+[2018-10-31 14:14:15] Security type PKCS7
+[2018-10-31 14:14:15] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:14:15.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:14:56] Start checkOrder
+[2018-10-31 14:14:56] Security type PKCS7
+[2018-10-31 14:14:56] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:14:56.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:15:08] Start checkOrder
+[2018-10-31 14:15:08] Security type PKCS7
+[2018-10-31 14:15:08] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:15:08.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:15:09] Start checkOrder
+[2018-10-31 14:15:09] Security type PKCS7
+[2018-10-31 14:15:09] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:15:09.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:24:45] Start checkOrder
+[2018-10-31 14:24:45] Security type PKCS7
+[2018-10-31 14:24:45] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:24:45.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:25:18] Start checkOrder
+[2018-10-31 14:25:18] Security type PKCS7
+[2018-10-31 14:25:18] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:25:18.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:30:32] Start checkOrder
+[2018-10-31 14:30:32] Security type MD5
+[2018-10-31 14:30:32] Request: Array
+(
+    [action] => checkOrder
+    [orderNumber] => 1208
+    [orderSumAmount] => 6.90
+    [cdd_exp_date] => 1220
+    [shopArticleId] => 425265
+    [paymentPayerCode] => 4100322062290
+    [cdd_rrn] => 124744387479
+    [external_id] => deposit
+    [paymentType] => AC
+    [requestDatetime] => 2018-08-29T14:32:39.044+03:00
+    [depositNumber] => wn2BNqwcRlsBY-SVvF-_oJbfewcZ..000.201808
+    [nst_eplPayment] => 1
+    [cdd_response_code] => 00
+    [cps_user_country_code] => PL
+    [orderCreatedDatetime] => 2018-08-29T14:32:38.228+03:00
+    [sk] => y1d56ab5fff2b1170c7fafa895935e3d6
+    [shopId] => 130136
+    [scid] => 551390
+    [shopSumBankPaycash] => 1003
+    [shopSumCurrencyPaycash] => 10643
+    [rebillingOn] => 
+    [orderSumBankPaycash] => 1003
+    [cps_region_id] => 51
+    [orderSumCurrencyPaycash] => 10643
+    [merchant_order_id] => 1208_290818142752_00000_130136
+    [unilabel] => 231896f8-0009-5000-8000-000033961da1
+    [cdd_pan_mask] => 444444|4448
+    [customerNumber] => 4756bd9b68a9722f7d306970527ad1e3
+    [yandexPaymentId] => 25700230006265
+    [environment] => Live
+    [invoiceId] => 2000003058690
+    [shopSumAmount] => 6.66
+    [md5] => 3A06BA44ACF63FB4421457EE115694F3
+)
+
+[2018-10-31 14:30:32] String to md5: checkOrder;6.90;10643;1003;130136;2000003058690;4756bd9b68a9722f7d306970527ad1e3;gCj9clBGyaIgQx
+[2018-10-31 14:30:32] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:30:32.000+03:00" code="0"  invoiceId="2000003058690" shopId="130136"/>
+[2018-10-31 14:30:33] Start checkOrder
+[2018-10-31 14:30:33] Security type MD5
+[2018-10-31 14:30:33] Request: Array
+(
+    [action] => checkOrder
+    [orderNumber] => 1208
+    [orderSumAmount] => 6.90
+    [cdd_exp_date] => 1220
+    [shopArticleId] => 425265
+    [paymentPayerCode] => 4100322062290
+    [cdd_rrn] => 124744387479
+    [external_id] => deposit
+    [paymentType] => AC
+    [requestDatetime] => 2018-08-29T14:32:39.044+03:00
+    [depositNumber] => wn2BNqwcRlsBY-SVvF-_oJbfewcZ..000.201808
+    [nst_eplPayment] => 1
+    [cdd_response_code] => 00
+    [cps_user_country_code] => PL
+    [orderCreatedDatetime] => 2018-08-29T14:32:38.228+03:00
+    [sk] => y1d56ab5fff2b1170c7fafa895935e3d6
+    [shopId] => 130136
+    [scid] => 551390
+    [shopSumBankPaycash] => 1003
+    [shopSumCurrencyPaycash] => 10643
+    [rebillingOn] => 
+    [orderSumBankPaycash] => 1003
+    [cps_region_id] => 51
+    [orderSumCurrencyPaycash] => 10643
+    [merchant_order_id] => 1208_290818142752_00000_130136
+    [unilabel] => 231896f8-0009-5000-8000-000033961da1
+    [cdd_pan_mask] => 444444|4448
+    [customerNumber] => 4756bd9b68a9722f7d306970527ad1e3
+    [yandexPaymentId] => 25700230006265
+    [environment] => Live
+    [invoiceId] => 2000003058690
+    [shopSumAmount] => 6.66
+    [md5] => 3A06BA44ACF63FB4421457EE115694F3
+)
+
+[2018-10-31 14:30:33] String to md5: checkOrder;6.90;10643;1003;130136;2000003058690;4756bd9b68a9722f7d306970527ad1e3;gCj9clBGyaIgQx
+[2018-10-31 14:30:33] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:30:33.000+03:00" code="0"  invoiceId="2000003058690" shopId="130136"/>
+[2018-10-31 14:30:35] Start checkOrder
+[2018-10-31 14:30:35] Security type MD5
+[2018-10-31 14:30:35] Request: Array
+(
+    [PHPSESSID] => 4756bd9b68a9722f7d306970527ad1e3
+    [_ga] => GA1.2.69748963.1535528116
+    [_ym_uid] => 153552811677727745
+    [_ym_d] => 1535528116
+    [BX_USER_ID] => df39c87ae46a7eb266b477fa33c317c2
+    [BITRIX_SM_LOGIN] => admin
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [BITRIX_SM_DSC] => 44
+    [BITRIX_SM_LAST_SETTINGS] => 
+    [_gid] => GA1.2.579574159.1540977298
+    [_ym_isad] => 1
+    [n_clb_it] => 1540977297
+    [n_clb_sh] => 1
+)
+
+[2018-10-31 14:30:35] String to md5: ;;;;;;;gCj9clBGyaIgQx
+[2018-10-31 14:30:35] Wait for md5:4FA974231659ECF6DEA655A8511E5809, recieved md5: 
+[2018-10-31 14:30:35] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:30:35.000+03:00" code="1"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:30:38] Start checkOrder
+[2018-10-31 14:30:38] Security type MD5
+[2018-10-31 14:30:38] Request: Array
+(
+    [PHPSESSID] => 4756bd9b68a9722f7d306970527ad1e3
+    [_ga] => GA1.2.69748963.1535528116
+    [_ym_uid] => 153552811677727745
+    [_ym_d] => 1535528116
+    [BX_USER_ID] => df39c87ae46a7eb266b477fa33c317c2
+    [BITRIX_SM_LOGIN] => admin
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [BITRIX_SM_DSC] => 44
+    [BITRIX_SM_LAST_SETTINGS] => 
+    [_gid] => GA1.2.579574159.1540977298
+    [_ym_isad] => 1
+    [n_clb_it] => 1540977297
+    [n_clb_sh] => 1
+)
+
+[2018-10-31 14:30:38] String to md5: ;;;;;;;gCj9clBGyaIgQx
+[2018-10-31 14:30:38] Wait for md5:4FA974231659ECF6DEA655A8511E5809, recieved md5: 
+[2018-10-31 14:30:38] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:30:38.000+03:00" code="1"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:30:55] Start checkOrder
+[2018-10-31 14:30:55] Security type PKCS7
+[2018-10-31 14:30:55] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:30:55.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:30:57] Start checkOrder
+[2018-10-31 14:30:57] Security type PKCS7
+[2018-10-31 14:30:57] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:30:57.000+03:00" code="200"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:35:12] Start checkOrder
+[2018-10-31 14:35:12] Security type MD5
+[2018-10-31 14:35:12] Request: Array
+(
+    [PHPSESSID] => 4756bd9b68a9722f7d306970527ad1e3
+    [_ga] => GA1.2.69748963.1535528116
+    [_ym_uid] => 153552811677727745
+    [_ym_d] => 1535528116
+    [BX_USER_ID] => df39c87ae46a7eb266b477fa33c317c2
+    [BITRIX_SM_LOGIN] => admin
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [BITRIX_SM_DSC] => 44
+    [BITRIX_SM_LAST_SETTINGS] => 
+    [_gid] => GA1.2.579574159.1540977298
+    [_ym_isad] => 1
+    [n_clb_it] => 1540977297
+    [n_clb_sh] => 1
+)
+
+[2018-10-31 14:35:12] String to md5: ;;;;;;;gCj9clBGyaIgQx
+[2018-10-31 14:35:12] Wait for md5:4FA974231659ECF6DEA655A8511E5809, recieved md5: 
+[2018-10-31 14:35:12] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:35:12.000+03:00" code="1"  invoiceId="" shopId="130136"/>
+[2018-10-31 14:35:43] Start checkOrder
+[2018-10-31 14:35:43] Security type MD5
+[2018-10-31 14:35:43] Request: Array
+(
+    [action] => checkOrder
+    [orderNumber] => 1208
+    [orderSumAmount] => 6.90
+    [cdd_exp_date] => 1220
+    [shopArticleId] => 425265
+    [paymentPayerCode] => 4100322062290
+    [cdd_rrn] => 124744387479
+    [external_id] => deposit
+    [paymentType] => AC
+    [requestDatetime] => 2018-08-29T14:32:39.044+03:00
+    [depositNumber] => wn2BNqwcRlsBY-SVvF-_oJbfewcZ..000.201808
+    [nst_eplPayment] => 1
+    [cdd_response_code] => 00
+    [cps_user_country_code] => PL
+    [orderCreatedDatetime] => 2018-08-29T14:32:38.228+03:00
+    [sk] => y1d56ab5fff2b1170c7fafa895935e3d6
+    [shopId] => 130136
+    [scid] => 551390
+    [shopSumBankPaycash] => 1003
+    [shopSumCurrencyPaycash] => 10643
+    [rebillingOn] => 
+    [orderSumBankPaycash] => 1003
+    [cps_region_id] => 51
+    [orderSumCurrencyPaycash] => 10643
+    [merchant_order_id] => 1208_290818142752_00000_130136
+    [unilabel] => 231896f8-0009-5000-8000-000033961da1
+    [cdd_pan_mask] => 444444|4448
+    [customerNumber] => 4756bd9b68a9722f7d306970527ad1e3
+    [yandexPaymentId] => 25700230006265
+    [environment] => Live
+    [invoiceId] => 2000003058690
+    [shopSumAmount] => 6.66
+    [md5] => 3A06BA44ACF63FB4421457EE115694F3
+)
+
+[2018-10-31 14:35:43] String to md5: checkOrder;6.90;10643;1003;130136;2000003058690;4756bd9b68a9722f7d306970527ad1e3;gCj9clBGyaIgQx
+[2018-10-31 14:35:43] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:35:43.000+03:00" code="0"  invoiceId="2000003058690" shopId="130136"/>
+[2018-10-31 14:39:28] Start checkOrder
+[2018-10-31 14:39:28] Security type MD5
+[2018-10-31 14:39:28] Request: Array
+(
+    [orderNumber] => 1208
+    [orderSumAmount] => 6.90
+    [cdd_exp_date] => 1120
+    [shopArticleId] => 425265
+    [paymentPayerCode] => 4100322062290
+    [cdd_rrn] => 732380694463
+    [external_id] => deposit
+    [paymentType] => AC
+    [requestDatetime] => 2018-10-31T14:39:27.325+03:00
+    [depositNumber] => V_HJzT3Wmp3fzTppyJg13X69KXIZ..000.201810
+    [nst_eplPayment] => true
+    [cdd_response_code] => 00
+    [cps_user_country_code] => PL
+    [orderCreatedDatetime] => 2018-10-31T14:39:27.222+03:00
+    [sk] => u367d2930a5f56eb0edc1a497b03cb9ff
+    [action] => checkOrder
+    [shopId] => 130136
+    [scid] => 551390
+    [shopSumBankPaycash] => 1003
+    [shopSumCurrencyPaycash] => 10643
+    [rebillingOn] => false
+    [orderSumBankPaycash] => 1003
+    [cps_region_id] => 51
+    [orderSumCurrencyPaycash] => 10643
+    [merchant_order_id] => 1208_311018143626_00000_130136
+    [unilabel] => 236ba779-0009-5000-8000-000035c2715c
+    [cdd_pan_mask] => 444444|4448
+    [customerNumber] => 
+    [yandexPaymentId] => 25700243038869
+    [environment] => Live
+    [invoiceId] => 2000003058690
+    [shopSumAmount] => 6.66
+    [md5] => 567B1F7413E7CEE086CA6569824059DB
+)
+
+[2018-10-31 14:39:28] String to md5: checkOrder;6.90;10643;1003;130136;2000003058690;;gCj9clBGyaIgQx
+[2018-10-31 14:39:28] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:39:28.000+03:00" code="0"  invoiceId="2000003058690" shopId="130136"/>
+[2018-10-31 14:39:29] Start paymentAviso
+[2018-10-31 14:39:29] Security type MD5
+[2018-10-31 14:39:29] Request: Array
+(
+    [orderNumber] => 1208
+    [orderSumAmount] => 6.90
+    [cdd_exp_date] => 1120
+    [shopArticleId] => 425265
+    [paymentPayerCode] => 4100322062290
+    [paymentDatetime] => 2018-10-31T14:39:28.881+03:00
+    [cdd_rrn] => 732380694463
+    [external_id] => deposit
+    [paymentType] => AC
+    [requestDatetime] => 2018-10-31T14:39:29.320+03:00
+    [depositNumber] => V_HJzT3Wmp3fzTppyJg13X69KXIZ..000.201810
+    [nst_eplPayment] => true
+    [cdd_response_code] => 00
+    [cps_user_country_code] => PL
+    [orderCreatedDatetime] => 2018-10-31T14:39:27.222+03:00
+    [sk] => u367d2930a5f56eb0edc1a497b03cb9ff
+    [action] => paymentAviso
+    [shopId] => 130136
+    [scid] => 551390
+    [shopSumBankPaycash] => 1003
+    [shopSumCurrencyPaycash] => 10643
+    [rebillingOn] => false
+    [orderSumBankPaycash] => 1003
+    [cps_region_id] => 51
+    [orderSumCurrencyPaycash] => 10643
+    [merchant_order_id] => 1208_311018143626_00000_130136
+    [unilabel] => 236ba779-0009-5000-8000-000035c2715c
+    [cdd_pan_mask] => 444444|4448
+    [customerNumber] => 
+    [yandexPaymentId] => 25700243038869
+    [environment] => Live
+    [invoiceId] => 2000003058690
+    [shopSumAmount] => 6.66
+    [md5] => A92BD8B0268CF68B31615433208C9EE1
+)
+
+[2018-10-31 14:39:29] String to md5: paymentAviso;6.90;10643;1003;130136;2000003058690;;gCj9clBGyaIgQx
+[2018-10-31 14:39:29] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2018-10-31T14:39:29.000+03:00" code="0"  invoiceId="2000003058690" shopId="130136"/>
+[2018-10-31 14:51:14] Start checkOrder
+[2018-10-31 14:51:14] Security type MD5
+[2018-10-31 14:51:14] Request: Array
+(
+    [orderNumber] => 1386
+    [orderSumAmount] => 6.90
+    [cdd_exp_date] => 1220
+    [shopArticleId] => 425265
+    [paymentPayerCode] => 4100322062290
+    [cdd_rrn] => 439038156153
+    [external_id] => deposit
+    [paymentType] => AC
+    [requestDatetime] => 2018-10-31T14:51:13.943+03:00
+    [depositNumber] => z7XbL2k6sUFA6r6ODNF9spcNrBYZ..000.201810
+    [nst_eplPayment] => true
+    [cdd_response_code] => 00
+    [cps_user_country_code] => PL
+    [orderCreatedDatetime] => 2018-10-31T14:51:13.868+03:00
+    [sk] => u367d2930a5f56eb0edc1a497b03cb9ff
+    [action] => checkOrder
+    [shopId] => 130136
+    [scid] => 551390
+    [shopSumBankPaycash] => 1003
+    [shopSumCurrencyPaycash] => 10643
+    [rebillingOn] => false
+    [orderSumBankPaycash] => 1003
+    [cps_region_id] => 51
+    [orderSumCurrencyPaycash] => 10643
+    [merchant_order_id] => 1386_311018145040_00000_130136
+    [unilabel] => 236baad0-0009-5000-8000-000035c29877
+    [cdd_pan_mask] => 444444|4448
+    [customerNumber] => 4756bd9b68a9722f7d306970527ad1e3
+    [yandexPaymentId] => 25700243039647
+    [environment] => Live
+    [invoiceId] => 2000003228009
+    [shopSumAmount] => 6.66
+    [md5] => 3B650B499EFFB687CCA94590D47B0679
+)
+
+[2018-10-31 14:51:14] String to md5: checkOrder;6.90;10643;1003;130136;2000003228009;4756bd9b68a9722f7d306970527ad1e3;gCj9clBGyaIgQx
+[2018-10-31 14:51:14] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:51:14.000+03:00" code="0"  invoiceId="2000003228009" shopId="130136"/>
+[2018-10-31 14:51:14] Start paymentAviso
+[2018-10-31 14:51:14] Security type MD5
+[2018-10-31 14:51:14] Request: Array
+(
+    [orderNumber] => 1386
+    [orderSumAmount] => 6.90
+    [cdd_exp_date] => 1220
+    [shopArticleId] => 425265
+    [paymentPayerCode] => 4100322062290
+    [paymentDatetime] => 2018-10-31T14:51:14.116+03:00
+    [cdd_rrn] => 439038156153
+    [external_id] => deposit
+    [paymentType] => AC
+    [requestDatetime] => 2018-10-31T14:51:14.373+03:00
+    [depositNumber] => z7XbL2k6sUFA6r6ODNF9spcNrBYZ..000.201810
+    [nst_eplPayment] => true
+    [cdd_response_code] => 00
+    [cps_user_country_code] => PL
+    [orderCreatedDatetime] => 2018-10-31T14:51:13.868+03:00
+    [sk] => u367d2930a5f56eb0edc1a497b03cb9ff
+    [action] => paymentAviso
+    [shopId] => 130136
+    [scid] => 551390
+    [shopSumBankPaycash] => 1003
+    [shopSumCurrencyPaycash] => 10643
+    [rebillingOn] => false
+    [orderSumBankPaycash] => 1003
+    [cps_region_id] => 51
+    [orderSumCurrencyPaycash] => 10643
+    [merchant_order_id] => 1386_311018145040_00000_130136
+    [unilabel] => 236baad0-0009-5000-8000-000035c29877
+    [cdd_pan_mask] => 444444|4448
+    [customerNumber] => 4756bd9b68a9722f7d306970527ad1e3
+    [yandexPaymentId] => 25700243039647
+    [environment] => Live
+    [invoiceId] => 2000003228009
+    [shopSumAmount] => 6.66
+    [md5] => C692D5405B81A8C8CDDD798B5B0A419D
+)
+
+[2018-10-31 14:51:14] String to md5: paymentAviso;6.90;10643;1003;130136;2000003228009;4756bd9b68a9722f7d306970527ad1e3;gCj9clBGyaIgQx
+[2018-10-31 14:51:14] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2018-10-31T14:51:14.000+03:00" code="0"  invoiceId="2000003228009" shopId="130136"/>
+[2018-10-31 14:55:57] Start checkOrder
+[2018-10-31 14:55:57] Security type MD5
+[2018-10-31 14:55:57] Request: Array
+(
+)
+
+[2018-10-31 14:55:57] String to md5: ;;;;;;;gCj9clBGyaIgQx
+[2018-10-31 14:55:57] Wait for md5:4FA974231659ECF6DEA655A8511E5809, recieved md5: 
+[2018-10-31 14:55:57] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T14:55:57.000+03:00" code="1"  invoiceId="" shopId="130136"/>
+[2018-10-31 15:51:56] Start checkOrder
+[2018-10-31 15:51:56] Security type MD5
+[2018-10-31 15:51:56] Request: Array
+(
+)
+
+[2018-10-31 15:51:56] String to md5: ;;;;;;;gCj9clBGyaIgQx
+[2018-10-31 15:51:56] Wait for md5:4FA974231659ECF6DEA655A8511E5809, recieved md5: 
+[2018-10-31 15:51:56] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2018-10-31T15:51:56.000+03:00" code="1"  invoiceId="" shopId="130136"/>
